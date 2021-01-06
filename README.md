@@ -17,6 +17,8 @@ A presentation-ready visualization of the Percentage of Bachelors Degrees for Wo
 ## dataset of the college majors
 Visualizing dataset of the college majors. Exploring data quickly using pandas visualizations.
 ## Chicago Crime Data
+The dataset is too big (>7m rows) to upload on github. Please refer to [kaggle](https://www.kaggle.com/chicago/chicago-crime).
+
 This is an analysis of the Chicago crimes using Pyspark SQL and visualization through Plotly. Also, web app using dash are available: follow the instructions from [this repository](https://github.com/ArtamonovDen/HSE-Small-PySpark-Project)
 
 This was made for HSE assignments for the big data course. Contributors: [ArtomonovDen](https://github.com/ArtamonovDen), [APrigarina](https://github.com/APrigarina)
